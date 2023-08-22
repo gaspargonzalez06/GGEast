@@ -1,0 +1,20 @@
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Data\obj\Debug\GGEats.Data.csproj.AssemblyReference.cache
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Data\obj\Debug\GGEats.Data.csproj.CoreCompileInputs.cache
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Data\bin\Debug\GGEats.Data.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Data\bin\Debug\GGEats.Data.pdb
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Data\obj\Debug\GGEats.Data.csproj.CopyComplete
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Data\obj\Debug\GGEats.Data.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Data\obj\Debug\GGEats.Data.pdb
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Data\bin\Debug\GGEats.Data.dll.config
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Data\bin\Debug\GGEats.Data.dll.config
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Data\bin\Debug\GGEats.Data.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Data\bin\Debug\GGEats.Data.pdb
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Data\bin\Debug\Newtonsoft.Json.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Data\bin\Debug\Newtonsoft.Json.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Data\obj\Debug\GGEats.Data.csproj.AssemblyReference.cache
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Data\obj\Debug\GGEats.Data.csproj.CoreCompileInputs.cache
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Data\obj\Debug\GGEats.Data.csproj.CopyComplete
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Data\obj\Debug\GGEats.Data.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Data\obj\Debug\GGEats.Data.pdb

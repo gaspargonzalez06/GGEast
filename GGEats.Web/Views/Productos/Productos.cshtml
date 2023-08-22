@@ -1,0 +1,189 @@
+﻿@model IEnumerable<GGEats.Web.Models.Productos>
+
+    @{
+    ViewBag.Title = "Productos";
+    }
+
+    <h2>Agregar Orden</h2>
+    <h5>Selecciona tus productos y luego agrégalos a la orden</h5>
+    <style>
+        /* Estilos de la tabla */
+        #tabla-productos {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+            #tabla-productos th,
+            #tabla-productos td {
+                border: 1px solid #ccc;
+                padding: 8px;
+            }
+        th {
+            background-color: #f2f2f2;
+        }
+        /* Estilos del formulario */
+        form {
+            margin-bottom: 20px;
+        }
+
+        /* Estilos de los botones */
+        .btn-agregar {
+            margin-right: 5px;
+        }
+
+        .btn-eliminar {
+            background-color: red;
+            color: white;
+            /* Agrega otros estilos personalizados si es necesario */
+        }
+
+        /* Estilos del botón Enviar */
+        .btn-enviar {
+            /* Estilos personalizados para el botón Enviar */
+            text-align: right;
+            padding-top: 10px;
+        }
+
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 8px 16px;
+            border: none;
+            cursor: pointer;
+        }
+
+            button:hover:not(.btn-eliminar) {
+                background-color: #45a049;
+            }
+    </style>
+
+    <form method="POST" action="/Ordenes/AgregarOrden">
+        <table id="tabla-productos">
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+                    <th>Cantidad</th>
+                    <th>Precio</th>
+                    <th>Total</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <select name="detalles[0].Product_Id" onchange="updatePrice(this, 0)">
+                            @foreach (var producto2 in Model)
+                            {
+                            <option value="@producto2.Id" data-precio="@producto2.Precio">@producto2.Nombre</option>
+                            }
+                        </select>
+                    </td>
+                    <td>
+                        <div><input type="number" class="valor-cantidad_0" name="detalles[0].Cantidad" value="1" oninput="updateTotal(this, 0)" /></div>
+                    </td>
+                    <td>
+                        <div class="valor-precio_0" data-precio="@Model.FirstOrDefault().Precio">@Model.FirstOrDefault().Precio</div>
+                        <input type="hidden" name="detalles[0].Precio" value="@Model.FirstOrDefault().Precio" />
+                    </td>
+                    <td>
+                        <div class="resultado_0">Resultado</div>
+                    </td>
+                    <td>
+                        <button type="button" class="btn-agregar" onclick="agregarFila()">Agregar</button>
+                        <button type="button" class="btn-eliminar" onclick="eliminarFila(this)">Eliminar</button>
+                    </td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="5" class="btn-enviar">
+                        <button type="submit">Enviar</button>
+                    </td>
+                </tr>
+            </tfoot>
+        </table>
+        <input type="hidden" id="total-general" name="orden.Total" value="" />
+    </form>
+
+    <script>
+        function updatePrice(selectElement, rowIndex) {
+            var selectedOption = selectElement.options[selectElement.selectedIndex];
+            var precio = parseFloat(selectedOption.getAttribute("data-precio"));
+
+            var fila = selectElement.parentNode.parentNode;
+            fila.querySelector('.valor-precio_' + rowIndex).textContent = precio.toFixed(2);
+            fila.querySelector('input[name="detalles[' + rowIndex + '].Precio"]').value = precio.toFixed(2);
+            updateTotal(fila, rowIndex);
+        }
+
+        function updateTotal(inputElement, rowIndex) {
+            console.log(inputElement);
+            var fila = inputElement.parentNode.parentNode;
+            var cantidad = parseInt(inputElement.querySelector('input').value);
+            var precio = parseFloat(fila.querySelector('.valor-precio_' + rowIndex).textContent);
+
+            var total = cantidad * precio;
+            fila.querySelector('.resultado_' + rowIndex).textContent = total.toFixed(2);
+
+            updateGrandTotal();
+        }
+
+        function agregarFila() {
+            var tabla = document.getElementById('tabla-productos');
+            var rowCount = tabla.rows.length - 1; // Excluye la fila de encabezado
+            var rowIndex = rowCount - 1; // Restamos 1 para tener en cuenta la fila de totales
+
+            var nuevaFila = tabla.insertRow(rowCount);
+            var precioInicial = parseFloat(document.querySelector('select').options[0].getAttribute("data-precio"));
+            nuevaFila.innerHTML = `
+          <td>
+            <select name="detalles[${rowIndex}].Product_Id" onchange="updatePrice(this, ${rowIndex})">
+              @foreach (var producto2 in Model)
+              {
+                <option value="@producto2.Id" data-precio="@producto2.Precio">@producto2.Nombre</option>
+              }
+            </select>
+          </td>
+          <td>
+            <div><input type="number" class="valor-cantidad_${rowIndex}" name="detalles[${rowIndex}].Cantidad" value="1" oninput="updateTotal(this, ${rowIndex})" /></div>
+          </td>
+          <td>
+            <div class="valor-precio_${rowIndex}" data-precio="${precioInicial.toFixed(2)}">${precioInicial.toFixed(2)}</div>
+            <input type="hidden" name="detalles[${rowIndex}].Precio" value="${precioInicial.toFixed(2)}" />
+          </td>
+          <td>
+            <div class="resultado_${rowIndex}">Resultado</div>
+          </td>
+          <td>
+            <button type="button" onclick="agregarFila()">Agregar</button>
+            <button type="button" class="btn-eliminar" onclick="eliminarFila(this)">Eliminar</button>
+          </td>
+        `;
+
+            updatePrice(nuevaFila.querySelector('select'), rowIndex);
+            updateTotal(nuevaFila.querySelector('.valor-cantidad_' + rowIndex), rowIndex);
+        }
+
+        function eliminarFila(boton) {
+            var fila = boton.parentNode.parentNode;
+            fila.parentNode.removeChild(fila);
+            updateGrandTotal();
+        }
+
+        function updateGrandTotal() {
+            var filas = document.querySelectorAll('#tabla-productos tbody tr');
+            var total = 0;
+
+            filas.forEach(function (fila, index) {
+                var cantidad = parseInt(fila.querySelector('.valor-cantidad_' + index).querySelector('input').value);
+                var precio = parseFloat(fila.querySelector('.valor-precio_' + index).textContent);
+                var subtotal = cantidad * precio;
+                fila.querySelector('.resultado_' + index).textContent = subtotal.toFixed(2);
+                total += subtotal;
+            });
+
+            document.getElementById('total-general').value = total.toFixed(2);
+        }
+
+        updatePrice(document.querySelector('select'), 0);
+    </script>

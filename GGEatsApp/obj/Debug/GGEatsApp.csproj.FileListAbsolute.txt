@@ -1,0 +1,34 @@
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEatsApp\obj\Debug\GGEatsApp.csproj.AssemblyReference.cache
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEatsApp\obj\Debug\GGEatsApp.csproj.CoreCompileInputs.cache
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEatsApp\bin\Debug\GGEatsApp.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEatsApp\bin\Debug\GGEatsApp.pdb
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEatsApp\bin\Debug\GGEats.Data.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEatsApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEatsApp\bin\Debug\GGEats.Data.pdb
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEatsApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEatsApp\obj\Debug\GGEatsApp.csproj.CopyComplete
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEatsApp\obj\Debug\GGEatsApp.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEatsApp\obj\Debug\GGEatsApp.pdb
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEatsApp\bin\Debug\GGEats.Data.dll.config
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEatsApp\bin\Debug\GGEatsApp.dll.config
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEatsApp\bin\Debug\GGEats.UI.exe
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEatsApp\bin\Debug\GGEats.UI.pdb
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEatsApp\bin\Debug\GGEats.UI.exe.config
+D:\Pospan\Desarrollos\Help\GGEats\GGEatsApp\obj\Debug\GGEatsApp.csproj.AssemblyReference.cache
+D:\Pospan\Desarrollos\Help\GGEats\GGEatsApp\obj\Debug\GGEatsApp.csproj.CoreCompileInputs.cache
+D:\Pospan\Desarrollos\Help\GGEats\GGEatsApp\obj\Debug\GGEatsApp.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEatsApp\obj\Debug\GGEatsApp.pdb
+D:\Pospan\Desarrollos\Help\GGEats\GGEatsApp\bin\Debug\GGEatsApp.dll.config
+D:\Pospan\Desarrollos\Help\GGEats\GGEatsApp\bin\Debug\GGEatsApp.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEatsApp\bin\Debug\GGEatsApp.pdb
+D:\Pospan\Desarrollos\Help\GGEats\GGEatsApp\bin\Debug\GGEats.Data.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEatsApp\bin\Debug\GGEats.UI.exe
+D:\Pospan\Desarrollos\Help\GGEats\GGEatsApp\bin\Debug\Newtonsoft.Json.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEatsApp\bin\Debug\SimphonyUtilities.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEatsApp\bin\Debug\GGEats.Data.pdb
+D:\Pospan\Desarrollos\Help\GGEats\GGEatsApp\bin\Debug\GGEats.Data.dll.config
+D:\Pospan\Desarrollos\Help\GGEats\GGEatsApp\bin\Debug\GGEats.UI.pdb
+D:\Pospan\Desarrollos\Help\GGEats\GGEatsApp\bin\Debug\GGEats.UI.exe.config
+D:\Pospan\Desarrollos\Help\GGEats\GGEatsApp\bin\Debug\Newtonsoft.Json.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEatsApp\obj\Debug\GGEatsApp.csproj.CopyComplete
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEatsApp\bin\Debug\SimphonyUtilities.dll

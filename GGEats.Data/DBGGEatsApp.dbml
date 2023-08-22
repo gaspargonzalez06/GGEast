@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="CheckPostingDB" Class="DBGGEatsAppDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=192.168.1.143,50196;Initial Catalog=CheckPostingDB;User ID=sa;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False" SettingsObjectName="GGEats.Data.Properties.Settings" SettingsPropertyName="CheckPostingDBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.EXTENSION_DATA_VALUE" Member="EXTENSION_DATA_VALUEs">
+    <Type Name="EXTENSION_DATA_VALUE">
+      <Column Name="ExtensionDataValueID" Type="System.Int64" DbType="BigInt NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="DataElementID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="XMLProperties" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="ExtensionDataPropertyID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="HierStrucID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="LANGID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.EXTENSION_DATA_PROPERTY" Member="EXTENSION_DATA_PROPERTies">
+    <Type Name="EXTENSION_DATA_PROPERTY">
+      <Column Name="ExtensionDataPropertyID" Type="System.Int64" DbType="BigInt NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(1024) NOT NULL" CanBeNull="false" />
+      <Column Name="DbTableID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ValueType" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ValueLimits" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="SortPriority" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DisplayWidth" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DisplayNameID" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="IsEditable" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="IsViewable" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="CommentID" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="IsDownloadable" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="HierStrucID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="ObjectNumber" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="APPLICATIONTYPE" Type="System.String" DbType="NVarChar(25)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MENU_ITEM_MASTER" Member="MENU_ITEM_MASTERs">
+    <Type Name="MENU_ITEM_MASTER">
+      <Column Name="MenuItemMasterID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="HierStrucID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="ObjectNumber" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="NameID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="ReportGroup" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Status" Type="System.String" DbType="NVarChar(8) NOT NULL" CanBeNull="false" />
+      <Column Name="RecipeLinkID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IsVisible" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="IsDeleted" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="MenuItemMasterPostingTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="TempConfiguration" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="FamGrpObjNum" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MajGrpObjNum" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MasterGrpObjNum" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

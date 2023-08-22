@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="GGEats" Class="GGEatsAppDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=192.168.1.143,50196;Initial Catalog=GGEats;User ID=sa;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False" SettingsObjectName="GGEats.Data.Properties.Settings" SettingsPropertyName="GGEatsConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Detalles" Member="Detalles">
+    <Type Name="Detalle">
+      <Column Name="Id" Type="System.String" DbType="NVarChar(450) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="OrdenId" Type="System.String" DbType="NVarChar(450)" CanBeNull="true" />
+      <Column Name="Order_Id" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Product_Id" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Precio" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="Impuesto" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="Cantidad" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Total_Linea" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="SubTotal" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="Nombre" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Sku" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="Ordene_Detalle" Member="Ordene" ThisKey="OrdenId" OtherKey="Id" Type="Ordene" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ordenes" Member="Ordenes">
+    <Type Name="Ordene">
+      <Column Name="Id" Type="System.String" DbType="NVarChar(450) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Fecha" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Total" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="SubTotal" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="Impuesto" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="Product_Id" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Importado" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="Procesada" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Association Name="Ordene_Detalle" Member="Detalles" ThisKey="Id" OtherKey="OrdenId" Type="Detalle" />
+    </Type>
+  </Table>
+</Database>

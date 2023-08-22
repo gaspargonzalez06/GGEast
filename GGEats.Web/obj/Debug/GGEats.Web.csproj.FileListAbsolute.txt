@@ -1,0 +1,522 @@
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\GGEats.Web.dll.config
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\GGEats.Web.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\GGEats.Web.pdb
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\csc.exe
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\csc.exe.config
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\csc.rsp
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\csi.exe
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\csi.exe.config
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\csi.rsp
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\System.AppContext.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\System.Console.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\System.Globalization.Calendars.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\System.IO.Compression.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\System.Net.Http.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\System.Net.Sockets.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\System.ValueTuple.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\System.Xml.XPath.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\vbc.exe
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\vbc.exe.config
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\vbc.rsp
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\VBCSCompiler.exe
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Win32.Primitives.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\netstandard.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.AppContext.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Collections.Concurrent.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Collections.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Collections.NonGeneric.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Collections.Specialized.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.ComponentModel.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.ComponentModel.Primitives.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.ComponentModel.TypeConverter.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Console.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Data.Common.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Diagnostics.Contracts.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Diagnostics.Debug.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Diagnostics.Process.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Diagnostics.StackTrace.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Diagnostics.Tools.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Diagnostics.TraceSource.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Diagnostics.Tracing.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Drawing.Primitives.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Dynamic.Runtime.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Globalization.Calendars.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Globalization.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Globalization.Extensions.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.IO.Compression.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.IO.Compression.ZipFile.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.IO.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.IO.FileSystem.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.IO.FileSystem.Primitives.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.IO.FileSystem.Watcher.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.IO.IsolatedStorage.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.IO.MemoryMappedFiles.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.IO.Pipes.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Linq.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Linq.Expressions.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Linq.Parallel.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Linq.Queryable.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Net.Http.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Net.NameResolution.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Net.NetworkInformation.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Net.Ping.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Net.Primitives.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Net.Requests.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Net.Security.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Net.Sockets.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Net.WebHeaderCollection.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Net.WebSockets.Client.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Net.WebSockets.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.ObjectModel.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Reflection.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Reflection.Extensions.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Reflection.Primitives.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Resources.Reader.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Resources.ResourceManager.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Resources.Writer.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Runtime.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Runtime.Extensions.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Runtime.Handles.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Runtime.InteropServices.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Runtime.Numerics.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Runtime.Serialization.Formatters.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Runtime.Serialization.Json.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Runtime.Serialization.Primitives.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Runtime.Serialization.Xml.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Security.Claims.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Security.Cryptography.Algorithms.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Security.Cryptography.Csp.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Security.Cryptography.Encoding.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Security.Cryptography.Primitives.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Security.Principal.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Security.SecureString.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Text.Encoding.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Text.Encoding.Extensions.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Text.RegularExpressions.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Threading.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Threading.Overlapped.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Threading.Tasks.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Threading.Tasks.Parallel.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Threading.Thread.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Threading.ThreadPool.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Threading.Timer.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.ValueTuple.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Xml.ReaderWriter.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Xml.XDocument.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Xml.XmlDocument.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Xml.XmlSerializer.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Xml.XPath.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Xml.XPath.XDocument.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Antlr3.Runtime.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Bcl.HashCode.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Data.SqlClient.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.EntityFrameworkCore.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Extensions.Configuration.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Extensions.Logging.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Extensions.Options.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Extensions.Primitives.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Identity.Client.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.IdentityModel.Logging.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.IdentityModel.Protocols.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Newtonsoft.Json.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Buffers.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Collections.Immutable.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.ComponentModel.Annotations.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Memory.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Net.Http.Formatting.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Numerics.Vectors.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Threading.Tasks.Extensions.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Web.Helpers.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Web.Http.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Web.Http.WebHost.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Web.Mvc.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Web.Optimization.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Web.Razor.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Web.WebPages.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Web.WebPages.Razor.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\WebGrease.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Bcl.HashCode.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Data.SqlClient.pdb
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Data.SqlClient.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.EntityFrameworkCore.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Extensions.Configuration.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Extensions.Logging.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Extensions.Options.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Extensions.Primitives.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.Identity.Client.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.IdentityModel.Logging.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.IdentityModel.Protocols.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Buffers.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Collections.Immutable.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Memory.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Numerics.Vectors.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Threading.Tasks.Extensions.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Web.Helpers.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Web.Mvc.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Web.Optimization.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Web.Razor.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Web.WebPages.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Web.WebPages.Razor.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Newtonsoft.Json.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Antlr3.Runtime.pdb
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Net.Http.Formatting.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Web.Http.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\System.Web.Http.WebHost.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\de\Microsoft.Data.SqlClient.resources.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\es\Microsoft.Data.SqlClient.resources.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\it\Microsoft.Data.SqlClient.resources.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\obj\Debug\GGEats.Web.csproj.AssemblyReference.cache
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\obj\Debug\GGEats.Web.csproj.CoreCompileInputs.cache
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\obj\Debug\GGEats.Web.csproj.CopyComplete
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\obj\Debug\GGEats.Web.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\obj\Debug\GGEats.Web.pdb
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.EntityFrameworkCore.Design.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\bin\Microsoft.EntityFrameworkCore.Design.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\obj\Debug\GGEats.Web.csproj.SuggestedBindingRedirects.cache
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Web\obj\Debug\GGEats.Web.dll.config
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\GGEats.Web.dll.config
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\GGEats.Web.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\GGEats.Web.pdb
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\csc.exe
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\csc.exe.config
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\csc.rsp
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\csi.exe
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\csi.exe.config
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\csi.rsp
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\System.AppContext.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\System.Console.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\System.Net.Http.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\vbc.exe
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\vbc.exe.config
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\vbc.rsp
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\netstandard.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.AppContext.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Collections.Concurrent.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Collections.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Collections.NonGeneric.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Collections.Specialized.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.ComponentModel.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.ComponentModel.Primitives.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Console.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Data.Common.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Diagnostics.Contracts.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Diagnostics.Debug.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Diagnostics.Process.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Diagnostics.Tools.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Diagnostics.Tracing.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Drawing.Primitives.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Dynamic.Runtime.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Globalization.Calendars.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Globalization.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Globalization.Extensions.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.IO.Compression.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.IO.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.IO.FileSystem.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.IO.IsolatedStorage.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.IO.Pipes.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Linq.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Linq.Expressions.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Linq.Parallel.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Linq.Queryable.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Net.Http.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Net.NameResolution.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Net.NetworkInformation.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Net.Ping.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Net.Primitives.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Net.Requests.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Net.Security.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Net.Sockets.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Net.WebSockets.Client.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Net.WebSockets.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.ObjectModel.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Reflection.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Reflection.Extensions.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Reflection.Primitives.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Resources.Reader.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Resources.ResourceManager.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Resources.Writer.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Runtime.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Runtime.Extensions.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Runtime.Handles.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Runtime.InteropServices.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Runtime.Numerics.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Security.Claims.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Security.Principal.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Security.SecureString.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Text.Encoding.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Text.RegularExpressions.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Threading.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Threading.Overlapped.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Threading.Tasks.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Threading.Thread.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Threading.ThreadPool.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Threading.Timer.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.ValueTuple.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Xml.ReaderWriter.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Xml.XDocument.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Xml.XmlDocument.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Xml.XmlSerializer.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Xml.XPath.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Antlr3.Runtime.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Data.SqlClient.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Extensions.Options.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Identity.Client.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Newtonsoft.Json.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Buffers.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Collections.Immutable.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.ComponentModel.Annotations.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Memory.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Numerics.Vectors.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Web.Helpers.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Web.Http.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Web.Mvc.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Web.Optimization.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Web.Razor.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Web.WebPages.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\WebGrease.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Data.SqlClient.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Extensions.Options.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.Identity.Client.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Buffers.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Collections.Immutable.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Memory.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Numerics.Vectors.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Web.Helpers.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Web.Mvc.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Web.Optimization.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Web.Razor.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Web.WebPages.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Newtonsoft.Json.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Web.Http.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\obj\Debug\GGEats.Web.csproj.AssemblyReference.cache
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\obj\Debug\GGEats.Web.csproj.SuggestedBindingRedirects.cache
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\obj\Debug\GGEats.Web.dll.config
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\obj\Debug\GGEats.Web.csproj.CoreCompileInputs.cache
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\obj\Debug\GGEats.Web.csproj.CopyComplete
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\obj\Debug\GGEats.Web.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Web\obj\Debug\GGEats.Web.pdb

@@ -1,0 +1,108 @@
+﻿@model IEnumerable<GGEats.Web.Models.Ordenes>
+
+    @{
+    ViewBag.Title = "Titulo de Pagina";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Ordenes</title>
+        <style>
+            /* Estilos comunes */
+            body {
+                font-family: Arial, sans-serif;
+            }
+
+            h2 {
+                color: #333;
+            }
+
+            /* Estilos específicos */
+            .container {
+                max-width: 800px;
+                margin: 0 auto;
+                padding: 20px;
+            }
+
+            table {
+                width: 100%;
+                border-collapse: collapse;
+                margin-bottom: 20px;
+            }
+
+            th, td {
+                padding: 8px;
+                text-align: left;
+                border-bottom: 1px solid #ddd;
+            }
+
+            th {
+                background-color: #f2f2f2;
+            }
+
+            button {
+                background-color: #4CAF50;
+                color: white;
+                padding: 8px 16px;
+                border: none;
+                cursor: pointer;
+            }
+
+                button:hover {
+                    background-color: #45a049;
+                }
+
+            .button-container {
+                margin-top: 20px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h2>Ordenes</h2>
+
+            @*<select name="filtro">
+                @foreach (var producto2 in Model.Select(p => p.Fecha).Distinct())
+                {
+                <option value="@producto2">@producto2</option>
+                }
+            </select>*@
+
+<form method="POST" action="/Ordenes/PagarOrden">
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Fecha</th>
+                <th>Total</th>
+                <th>Procesado</th>
+                <!-- Otros encabezados de columnas -->
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var orden in Model)
+            {
+            <tr>
+                <td>@orden.Id</td>
+                <td>@orden.Fecha</td>
+                <td>@orden.Total</td>
+                <td>@orden.Procesada.ToString()</td>
+                <!-- Otros datos de la orden -->
+                <td>
+                    @if (!orden.Procesada)
+                    {
+                    <button type="submit" name="id_orden" value="@orden.Id">Pagar</button>
+                    }
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</form>
+        </div>
+    </body>
+</html>

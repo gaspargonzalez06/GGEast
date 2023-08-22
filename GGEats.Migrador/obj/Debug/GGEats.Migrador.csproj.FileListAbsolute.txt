@@ -1,0 +1,394 @@
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\GGEats.Migrador.exe.config
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\GGEats.Migrador.exe
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\GGEats.Migrador.pdb
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\obj\Debug\GGEats.Migrador.csproj.AssemblyReference.cache
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\obj\Debug\GGEats.Migrador.csproj.SuggestedBindingRedirects.cache
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\obj\Debug\GGEats.Migrador.csproj.CoreCompileInputs.cache
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\obj\Debug\GGEats.Migrador.exe
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\obj\Debug\GGEats.Migrador.pdb
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\netstandard.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.AppContext.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Collections.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.ComponentModel.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Console.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Data.Common.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Globalization.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.IO.Compression.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.IO.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.IO.Pipes.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Linq.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Net.Http.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Net.Ping.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Net.Primitives.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Net.Requests.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Net.Security.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Net.Sockets.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.ObjectModel.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Reflection.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Resources.Reader.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Resources.Writer.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Runtime.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Security.Claims.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Security.Principal.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Security.SecureString.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Text.Encoding.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Threading.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Threading.Thread.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Threading.Timer.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.ValueTuple.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Xml.XPath.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\GGEats.Data.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Buffers.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Memory.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Security.Permissions.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\GGEats.Data.pdb
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Buffers.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Memory.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Security.Permissions.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\obj\Debug\GGEats.Migrador.exe.config
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\obj\Debug\GGEats.Migrador.csproj.CopyComplete
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.Migrador\bin\Debug\GGEats.Data.dll.config
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\GGEats.Migrador.exe.config
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\GGEats.Migrador.exe
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\GGEats.Migrador.pdb
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\netstandard.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.AppContext.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Collections.Concurrent.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Collections.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Collections.NonGeneric.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Collections.Specialized.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.ComponentModel.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Console.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Data.Common.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Diagnostics.Debug.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Diagnostics.Process.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Diagnostics.Tools.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Drawing.Primitives.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Dynamic.Runtime.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Globalization.Calendars.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Globalization.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Globalization.Extensions.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.IO.Compression.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.IO.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.IO.FileSystem.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.IO.Pipes.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Linq.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Linq.Expressions.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Linq.Parallel.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Linq.Queryable.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Net.Http.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Net.NameResolution.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Net.NetworkInformation.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Net.Ping.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Net.Primitives.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Net.Requests.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Net.Security.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Net.Sockets.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Net.WebSockets.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.ObjectModel.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Reflection.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Reflection.Extensions.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Reflection.Primitives.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Resources.Reader.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Resources.ResourceManager.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Resources.Writer.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Runtime.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Runtime.Extensions.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Runtime.Handles.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Runtime.InteropServices.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Runtime.Numerics.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Security.Claims.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Security.Principal.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Security.SecureString.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Text.Encoding.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Text.RegularExpressions.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Threading.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Threading.Overlapped.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Threading.Tasks.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Threading.Thread.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Threading.ThreadPool.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Threading.Timer.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.ValueTuple.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Xml.XDocument.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Xml.XmlDocument.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Xml.XPath.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\GGEats.Data.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Identity.Client.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Newtonsoft.Json.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Buffers.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Collections.Immutable.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Memory.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Numerics.Vectors.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Security.AccessControl.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Security.Permissions.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Security.Principal.Windows.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\GGEats.Data.pdb
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\GGEats.Data.dll.config
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.Identity.Client.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\Newtonsoft.Json.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Buffers.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Collections.Immutable.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Memory.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Numerics.Vectors.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Security.AccessControl.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Security.Permissions.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Security.Principal.Windows.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\obj\Debug\GGEats.Migrador.csproj.AssemblyReference.cache
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\obj\Debug\GGEats.Migrador.csproj.SuggestedBindingRedirects.cache
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\obj\Debug\GGEats.Migrador.exe.config
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\obj\Debug\GGEats.Migrador.csproj.CoreCompileInputs.cache
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\obj\Debug\GGEats.Migrador.csproj.CopyComplete
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\obj\Debug\GGEats.Migrador.exe
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.Migrador\obj\Debug\GGEats.Migrador.pdb

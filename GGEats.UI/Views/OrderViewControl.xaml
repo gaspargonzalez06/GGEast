@@ -1,0 +1,75 @@
+﻿<UserControl x:Class="GGEats.UI.Views.OrderViewControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:GGEats.UI.Views"
+           mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="840"
+             Background="White">
+    <Grid>
+        <DataGrid 
+            Name="myDataGrid"
+            ItemsSource="{Binding Orders , UpdateSourceTrigger=PropertyChanged }"
+            SelectedItem="{Binding OneOrder}"
+            AutoGenerateColumns="False"
+            IsReadOnly="True"
+            CanUserResizeColumns="False"
+            CanUserReorderColumns="False"
+            
+            Margin="25,20,144,20">
+            <DataGrid.Columns >
+                <DataGridTextColumn Binding="{Binding Id}" Header="Id" FontFamily="Arial" FontWeight="Bold"></DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding Fecha}" Header="Fecha" FontFamily="Arial" FontWeight="Bold"></DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding SubTotal}" Header="Subtotal" FontFamily="Arial" FontWeight="Bold"></DataGridTextColumn>
+                <DataGridTextColumn  Binding="{Binding Impuesto}" Header="Impuesto" FontFamily="Arial" FontWeight="Bold"></DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding Total}" Header="Total" FontFamily="Arial" FontWeight="Bold"></DataGridTextColumn>
+                <DataGridTemplateColumn Header="Acciones" Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+
+                                <Button Margin="10,1"
+                             Command="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}, Path=DataContext.AddOneOrderCommand}"
+                                CommandParameter="{Binding DataContext, RelativeSource={RelativeSource Self}}">
+                                    Ingresar
+                                </Button>
+
+                                <Button
+                                Margin="10,1"
+                                Command="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}, Path=DataContext.DeleteOrderCommand}"
+                                CommandParameter="{Binding DataContext, RelativeSource={RelativeSource Self}}">
+                                    Eliminar
+                                </Button>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+            <DataGrid.RowDetailsTemplate>
+                <DataTemplate>
+                    <DataGrid ItemsSource="{Binding Path=Details, UpdateSourceTrigger=PropertyChanged}" AutoGenerateColumns="False" IsReadOnly="True" >
+
+                        <DataGrid.Columns >
+
+                            <DataGridTextColumn Binding="{Binding Path=Nombre}" Header="Nombre" FontFamily="Arial" FontWeight="Bold"></DataGridTextColumn>
+
+                            <DataGridTextColumn Binding="{Binding Path=Precio}" Header="Precio" FontFamily="Arial" FontWeight="Bold"></DataGridTextColumn>
+
+                            <DataGridTextColumn Binding="{Binding Path=Cantidad}" Header="Cantidad" FontFamily="Arial" FontWeight="Bold"></DataGridTextColumn>
+
+                            <DataGridTextColumn Binding="{Binding Path=SubTotal}" Header="Subtotal" FontFamily="Arial" FontWeight="Bold"></DataGridTextColumn>
+
+                            <DataGridTextColumn Binding="{Binding Path=Impuesto}" Header="Impuesto" FontFamily="Arial" FontWeight="Bold"></DataGridTextColumn>
+
+                            <DataGridTextColumn Binding="{Binding Path=TotalLinea}" Header="Total" FontFamily="Arial" FontWeight="Bold"></DataGridTextColumn>
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                </DataTemplate>
+            </DataGrid.RowDetailsTemplate>
+
+        </DataGrid>
+        <Button Command="{Binding AddOrderCommand}" Content="Ingresar Orden" HorizontalAlignment="Left" Margin="718,22,0,0" VerticalAlignment="Top" Height="21" Width="112"/>
+    </Grid>
+</UserControl>

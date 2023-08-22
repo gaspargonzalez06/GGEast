@@ -1,0 +1,50 @@
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.UI\bin\Debug\GGEats.UI.exe.config
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.UI\bin\Debug\GGEats.UI.exe
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.UI\bin\Debug\GGEats.UI.pdb
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.UI\obj\Debug\GGEats.UI.csproj.AssemblyReference.cache
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.UI\obj\Debug\GGEats.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.UI\obj\Debug\MainWindow.g.cs
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.UI\obj\Debug\Views\OrderViewControl.g.cs
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.UI\obj\Debug\App.g.cs
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.UI\obj\Debug\GGEats.UI_MarkupCompile.cache
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.UI\obj\Debug\GGEats.UI_MarkupCompile.lref
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.UI\obj\Debug\MainWindow.baml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.UI\obj\Debug\Views\OrderViewControl.baml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.UI\obj\Debug\GGEats.UI.g.resources
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.UI\obj\Debug\GGEats.UI.Properties.Resources.resources
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.UI\obj\Debug\GGEats.UI.csproj.GenerateResource.cache
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.UI\obj\Debug\GGEats.UI.csproj.CoreCompileInputs.cache
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.UI\obj\Debug\GGEats.UI.exe
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.UI\obj\Debug\GGEats.UI.pdb
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.UI\bin\Debug\GGEats.Data.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.UI\bin\Debug\GGEats.Data.pdb
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.UI\bin\Debug\GGEats.Data.dll.config
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Soporte Pospan\source\repos\GGEats\GGEats.UI\obj\Debug\GGEats.UI.csproj.CopyComplete
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.UI\bin\Debug\GGEats.UI.exe.config
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.UI\bin\Debug\GGEats.UI.exe
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.UI\bin\Debug\GGEats.UI.pdb
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.UI\bin\Debug\GGEats.Data.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.UI\bin\Debug\Newtonsoft.Json.dll
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.UI\bin\Debug\GGEats.Data.pdb
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.UI\bin\Debug\GGEats.Data.dll.config
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.UI\bin\Debug\Newtonsoft.Json.xml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.UI\obj\Debug\GGEats.UI.csproj.AssemblyReference.cache
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.UI\obj\Debug\GGEats.UI.csproj.SuggestedBindingRedirects.cache
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.UI\obj\Debug\MainWindow.g.cs
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.UI\obj\Debug\Views\OrderViewControl.g.cs
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.UI\obj\Debug\App.g.cs
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.UI\obj\Debug\GGEats.UI_MarkupCompile.cache
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.UI\obj\Debug\GGEats.UI_MarkupCompile.lref
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.UI\obj\Debug\MainWindow.baml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.UI\obj\Debug\Views\OrderViewControl.baml
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.UI\obj\Debug\GGEats.UI.g.resources
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.UI\obj\Debug\GGEats.UI.Properties.Resources.resources
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.UI\obj\Debug\GGEats.UI.csproj.GenerateResource.cache
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.UI\obj\Debug\GGEats.UI.csproj.CoreCompileInputs.cache
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.UI\obj\Debug\GGEats.UI.csproj.CopyComplete
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.UI\obj\Debug\GGEats.UI.exe
+D:\Pospan\Desarrollos\Help\GGEats\GGEats.UI\obj\Debug\GGEats.UI.pdb

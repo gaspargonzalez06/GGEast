@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.375, 8.5" name="GGEatsApp">
+  <DataContextMoniker Name="/GGEatsAppDataContext" />
+  <nestedChildShapes>
+    <classShape Id="653adba4-c674-4d01-af62-189aa04da446" absoluteBounds="5.5, 2.625, 2, 2.9247054036458331">
+      <DataClassMoniker Name="/GGEatsAppDataContext/Detalle" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4b477cb2-14d1-4ee2-9a2c-eef16c48d279" absoluteBounds="5.515, 3.085, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7153a957-57b1-44b5-af43-45d717b38c51" absoluteBounds="9.125, 2.875, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/GGEatsAppDataContext/Ordene" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8f981f2c-7387-47e2-a6cd-38af7230fb77" absoluteBounds="9.14, 3.335, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(9.125 : 4.04890055338542); (7.5 : 4.04890055338542)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/GGEatsAppDataContext/Ordene/Ordene_Detalle" />
+      <nodes>
+        <classShapeMoniker Id="7153a957-57b1-44b5-af43-45d717b38c51" />
+        <classShapeMoniker Id="653adba4-c674-4d01-af62-189aa04da446" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

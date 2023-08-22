@@ -1,0 +1,108 @@
+﻿@{
+    ViewBag.Title = "Agregar Producto";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Agregar Producto</title>
+    <style>
+        /* Estilos comunes */
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        /* Estilos específicos */
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        input[type="text"],
+        input[type="number"] {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 8px 16px;
+            border: none;
+            cursor: pointer;
+        }
+
+            button:hover {
+                background-color: #45a049;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Agregar Producto</h2>
+        <form method="POST" action="/Productos/AddProduct">
+            <table id="tabla-productos">
+                <thead>
+                    <tr>
+                        <th>Nombre</th>
+                        <th>Precio</th>
+                        <th>SKU</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <input type="text" name="nombre" />
+                        </td>
+                        <td>
+                            <input type="number" step="any" name="precio" />
+                        </td>
+                        <td>
+                            <input type="text" name="sku" />
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <input type="hidden" id="lista-productos" name="productos" value="" />
+            <button type="submit" onclick="enviarProducto()" style="float: right;">Enviar</button>
+
+        </form>
+    </div>
+
+    <script>
+        function enviarProducto() {
+            var nombre = document.querySelector('input[name="nombre"]').value;
+            var precio = document.querySelector('input[name="precio"]').value;
+            var sku = document.querySelector('input[name="sku"]').value;
+            var producto = [nombre, precio, sku].join(", ");
+
+            document.getElementById("lista-productos").value = producto;
+        }
+    </script>
+</body>
+</html>
